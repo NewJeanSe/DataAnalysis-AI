@@ -33,7 +33,7 @@
 
 ## 파일 설명
 
-- `app.py`: Flask 서버 코드
+- `app.py`: Flask 서버 코드 (html css 수정할것!!!!!)
 - `models/lstmModel.h5`: 사전 학습된 모델 파일
 - `dataset/data.csv`: 예측에 사용할 데이터 파일
 - `requirements.txt`: 필요한 라이브러리 목록
