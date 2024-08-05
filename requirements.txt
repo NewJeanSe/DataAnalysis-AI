@@ -1,0 +1,6 @@
+Flask
+pyngrok
+numpy
+pandas
+tensorflow
+scikit-learn
